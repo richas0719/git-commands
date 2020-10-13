@@ -1,3 +1,7 @@
 public class CustomerJDBC{
 Connection con;
+<<<<<<< HEAD
+=======
+int a=0;
+>>>>>>> daoBranch
 }
